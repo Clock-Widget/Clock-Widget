@@ -32,3 +32,7 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin
 3. Değişikliklerinizi yapın ve **commit** edin (`git commit -am 'Yeni özellik eklendi'`).
 4. **Push** yapın (`git push origin feature/yenilik`).
 5. Pull request açın.
+
+## Lisans
+
+Bu proje, **MIT Lisansı** ile lisanslanmıştır - daha fazla bilgi için [LICENSE.md](https://github.com/Clock-Widget/Clock-Widget/blob/main/LICENSE.md) dosyasına bakın.
