@@ -35,4 +35,4 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin
 
 ## Lisans
 
-Bu proje, **MIT Lisansı** ile lisanslanmıştır - daha fazla bilgi için [LICENSE.md](https://github.com/Clock-Widget/Clock-Widget/blob/main/LICENSE.md) dosyasına bakın.
+Bu proje, **MIT Lisansı** ile lisanslanmıştır - daha fazla bilgi için [LICENSE](https://github.com/Clock-Widget/Clock-Widget/blob/main/LICENSE) dosyasına bakın.
