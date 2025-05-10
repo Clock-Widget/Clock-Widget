@@ -1,6 +1,6 @@
 ## README.md
 
-Clock Widget, kullanıcıların masaüstünde basit bir saat widget'ı görüntülemelerini sağlayan bir uygulamadır. Bu widget, zamanı şık bir şekilde gösterir ve kullanıcıya özelleştirme imkanı sunar.
+Clock Widget, kullanıcıların masaüstünde basit bir saat widget'ı görüntülemelerini sağlayan bir uygulamadır.
 
 ## Başlangıç
 
